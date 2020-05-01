@@ -2,11 +2,9 @@
 
 #### Day 2 JS workshop 將會練習在 Rails 裡面用 Webpack 來安裝、使用前端套件
 
-這裡有一個簡單的 Rails 專案，基本上所有內容是 <br>
-`rails generate scaffold product name money:decimal currency:integer start_at:time end_at:time`<br>
-一鍵做出來的<br>
-接下來要練習用前端套件來優化表單中常見的元素
+這裡有一個簡單的 Rails 6 專案，基本上所有內容是 `scaffold` 一鍵做出來的，然後有搭配 [acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on) 這個 gem 做了標籤功能。
 
+由於 Rails 內建表單不太好用，我們可以透過 Webpack 裝一些前端套件來優化
 ## 熱身任務
 > workshop 開始之前建議同學可以先練習安裝 Bootstrap<br>
 > 正式 workshop 將會有從此專案再往下做
