@@ -1,6 +1,6 @@
-# Astro camp JS workshop Day 2 暖身教材
+# Astro camp JS workshop 暖身教材
 
-#### Day 2 JS workshop 將會練習在 Rails 裡面用 Webpack 來安裝、使用前端套件
+#### JS workshop 將會練習在 Rails 裡面用 Webpack 來安裝、使用前端套件
 
 這裡有一個簡單的 Rails 6 專案，基本上所有內容是 `scaffold` 一鍵做出來的，然後有搭配 [acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on) 這個 gem 做了標籤功能。
 
@@ -29,11 +29,11 @@
 
 >原本 index 頁
 
-![](https://i.imgur.com/5HLL6Pv.png)
+![](https://i.imgur.com/OIVHjLL.png)
 
 >原本 new 頁
 
-![](https://i.imgur.com/OIVHjLL.png)
+![](https://i.imgur.com/5HLL6Pv.png)
 
 
 > bootstrap 完成後，index 頁
