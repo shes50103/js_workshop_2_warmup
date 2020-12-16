@@ -23,7 +23,7 @@
 #### 提示
 
 - 可以 fork 或直接 git clone 這個 repo
-- 可能用到這指令 `yarn add bootstrap`
+- 可能用到這指令 `yarn add bootstrap`，目前預設裝 4.5.3 版的 bootstrap 即可
 
 #### 參考樣式
 
