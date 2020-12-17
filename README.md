@@ -1,6 +1,6 @@
-# Astro camp JS workshop 暖身教材
+# ASTRO Camp JavaScipt workshop 暖身教材
 
-#### JS workshop 將會練習在 Rails 裡面用 Webpack 來安裝、使用前端套件
+#### 練習在 Rails 裡面用 Webpack 來安裝、使用前端套件
 
 這裡有一個簡單的 Rails 6 專案，基本上所有內容是 `scaffold` 一鍵做出來的，然後有搭配 [acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on) 這個 gem 做了標籤功能。
 
@@ -22,8 +22,8 @@
 
 #### 提示
 
-- 可以 fork 或直接 git clone 這個 repo
-- 可能用到這指令 `yarn add bootstrap`，目前預設裝 4.5.3 版的 bootstrap 即可
+- 可以 Github 的 fork 或直接 git clone 這個 repo
+- 可能用到這指令安裝 bootstrap `yarn add bootstrap`，目前預設裝 4.5.3 版的 bootstrap 即可
 
 #### 參考樣式
 
